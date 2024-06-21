@@ -10,6 +10,6 @@
  - <a href="https://www.instagram.com/047juniorr"> <img src="https://cdn-icons-png.flaticon.com/512/87/87390.png" width="22px" alt="insta-logo" />  </a>
  - <a href="https://www.linkedin.com/in/gledson-junior-66941a285"> <img src="https://cdn.icon-icons.com/icons2/1/PNG/256/sociallinkedin_member_70.png" width="22px" alt="linkedin-logo" /> </a>
 
-![Gledson stats](https://github-readme-stats.vercel.app/api?username=047juniorr&show_icons=true&theme=transparent)
+![Gledson stats](https://github-readme-stats.vercel.app/api?username=gledsonzjunior&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=047juniorr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gledsonzjunior)](https://github.com/anuraghazra/github-readme-stats)
